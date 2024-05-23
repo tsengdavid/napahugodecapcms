@@ -1,0 +1,4 @@
+baseURL = 'http://144.208.71.112:34316/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
