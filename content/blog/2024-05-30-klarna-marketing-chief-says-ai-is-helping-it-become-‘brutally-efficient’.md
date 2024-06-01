@@ -3,7 +3,7 @@ title: Klarna Marketing Chief Says AI Is Helping It Become ‘Brutally Efficient
 date: 2024-05-29T22:50:00.000Z
 description: AI, Klama, Marketing
 ---
-Source： https://www.wsj.com/articles/klarna-marketing-chief-says-ai-is-helping-it-become-brutally-efficient-4ad388d3?mod=tech_lead_pos2\
+Source：*[Klarna Marketing Chief Says AI Is Helping It Become ‘Brutally Efficient’ ](https://www.wsj.com/articles/klarna-marketing-chief-says-ai-is-helping-it-become-brutally-efficient-4ad388d3)*\
 \
 Klarna is a Swedish pay-as-you-go company. It utilizes artificial intelligence (AI) to reduce marketing and sales costs.
 
@@ -35,8 +35,6 @@ AI also improves the quality and personalization of marketing content. More crea
 
 Answer B ⁤
 
-
-
 ⁤Q2: How does AI affect Klarna's relationship with creative agencies? ⁤
 
 ⁤- A) Reduced need for creative agencies ⁤
@@ -46,7 +44,5 @@ Answer B ⁤
 ⁤- C) Increased the speed and volume of iterations and ideation ⁤
 
 ⁤- D) made creative agencies obsolete ⁤
-
-
 
 ⁤Answer: C.
