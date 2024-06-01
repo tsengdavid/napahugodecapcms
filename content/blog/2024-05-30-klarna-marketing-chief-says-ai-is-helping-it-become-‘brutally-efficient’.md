@@ -31,9 +31,9 @@ AI also improves the quality and personalization of marketing content. More crea
 
 ⁤- D) 11 percent ⁤
 
-⁤
+⁤Answer: B ⁤
 
-Answer B ⁤
+
 
 ⁤Q2: How does AI affect Klarna's relationship with creative agencies? ⁤
 
